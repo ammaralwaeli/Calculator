@@ -31,7 +31,7 @@ public class Evaluation {
 
     public float calculat(float op1, float op2, String pre) {
 
-        float res = 0;
+        float res;
         double a, b;
         switch (pre) {
 
